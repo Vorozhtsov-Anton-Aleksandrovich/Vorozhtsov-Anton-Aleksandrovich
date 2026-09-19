@@ -19,7 +19,7 @@ Backend-система для студии красоты с REST API, авто�
 
 <p align="center">
   <a href="https://github.com/LamaBox/rogueLiteGame">
-    <img src="ССЫЛКА_НА_СКРИН_ИГРЫ" width="850">
+    <img src="[ССЫЛКА_НА_СКРИН_ИГРЫ{](https://raw.githubusercontent.com/Vorozhtsov-Anton-Aleksandrovich/Vorozhtsov-Anton-Aleksandrovich/main/%B2991DFE-84BD-455D-87A2-4447F85D03FF.png" width="850">
   </a>
 </p>
 
