@@ -1,3 +1,34 @@
+# 🚀 Featured Projects
+
+## 🪞 Отражение — Booking API
+
+<p align="center">
+  <a href="https://github.com/Vorozhtsov-Anton-Aleksandrovich/otrazhenie-website">
+    <img src="ССЫЛКА_НА_КРАСИВЫЙ_СКРИН" width="850">
+  </a>
+</p>
+
+**Java · Spring Boot · PostgreSQL · Spring Security · Flyway · Docker · Swagger**
+
+Backend-система для студии красоты с REST API, авторизацией, ролями клиентов и администратора, записью на услуги и личным кабинетом.
+
+[→ Repository](https://github.com/Vorozhtsov-Anton-Aleksandrovich/otrazhenie-website)
+
+
+## 🎮 RogueLite Game
+
+<p align="center">
+  <a href="https://github.com/LamaBox/rogueLiteGame">
+    <img src="ССЫЛКА_НА_СКРИН_ИГРЫ" width="850">
+  </a>
+</p>
+
+**Unity · C#**
+
+2D Roguelite game with gameplay mechanics, combat systems and animations.
+
+[→ Repository](https://github.com/LamaBox/rogueLiteGame)
+
 ## 🛠 Tech Stack
 
 <p> 
