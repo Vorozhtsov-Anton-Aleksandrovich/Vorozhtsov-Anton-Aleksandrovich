@@ -3,9 +3,9 @@
 ## 🪞 Отражение — Booking API
 
 <p align="center">
-  <a href="https://github.com/Vorozhtsov-Anton-Aleksandrovich/otrazhenie-website">
-    <img src="https://github.com/Vorozhtsov-Anton-Aleksandrovich/Vorozhtsov-Anton-Aleksandrovich/edit/main/{10193E88-7546-42E6-B0A0-69EE4ACA7D95}.png" width="850">
-  </a>
+    <a href="https://github.com/Vorozhtsov-Anton-Aleksandrovich/otrazhenie-website">
+        <img src="https://raw.githubusercontent.com/Vorozhtsov-Anton-Aleksandrovich/Vorozhtsov-Anton-Aleksandrovich/main/%7B10193E88-7546-42E6-B0A0-69EE4ACA7D95%7D.png" width="850">
+    </a>
 </p>
 
 **Java · Spring Boot · PostgreSQL · Spring Security · Flyway · Docker · Swagger**
