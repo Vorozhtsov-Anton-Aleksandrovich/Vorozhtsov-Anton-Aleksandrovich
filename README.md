@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://github.com/Vorozhtsov-Anton-Aleksandrovich/otrazhenie-website">
-        <img src="https://raw.githubusercontent.com/Vorozhtsov-Anton-Aleksandrovich/Vorozhtsov-Anton-Aleksandrovich/main/%7B10193E88-7546-42E6-B0A0-69EE4ACA7D95%7D.png" width="850">
+        <img src="https://raw.githubusercontent.com/Vorozhtsov-Anton-Aleksandrovich/Vorozhtsov-Anton-Aleksandrovich/main/%7B10193E88-7546-42E6-B0A0-69EE4ACA7D95%7D.png" width="450">
     </a>
 </p>
 
