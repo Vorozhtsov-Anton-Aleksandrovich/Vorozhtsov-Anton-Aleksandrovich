@@ -49,6 +49,6 @@ Backend-система для студии красоты с REST API, авто�
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vorozhtsov-Anton-Aleksandrovich&show_icons=true&hide_border=true&rank_icon=github" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vorozhtsov-Anton-Aleksandrovich&layout=compact&hide_border=true" height="170">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Vorozhtsov-Anton-Aleksandrovich&show_icons=true&hide_border=true&rank_icon=github" height="170">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Vorozhtsov-Anton-Aleksandrovich&layout=compact&hide_border=true" height="170">
 </p>
